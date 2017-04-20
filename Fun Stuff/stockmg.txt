@@ -12,7 +12,7 @@
 		set GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix_Shroud2_Accuracy PartName Stock
 
 		//Red Text
-		set GD_Weap_AssaultRifle.Name.Title.Title_Unique_Scorpio:AttributePresentationDefinition_8 NoConstraintText Remember me?<br><font color="#FFFFFF">+4 Projectiles Fired
+		set GD_Weap_AssaultRifle.Name.Title.Title_Unique_Scorpio:AttributePresentationDefinition_8 NoConstraintText <font color="#FFFFFF">+4 Projectiles Fired
 
 		//Rarity
 		set GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs_Scorpio rarity (BaseValueConstant=-1)
